@@ -11,7 +11,7 @@ Skills: Flutter / Dart / .Net / C# / C / C++
 - 📫 How to reach me: kaficsebaiust02@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kafi015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='red'>](https://www.linkedin.com/in/g-m-kafi-b8b1761ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kafiul.islam.50)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color: white;'>](https://github.com/kafi015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/g-m-kafi-b8b1761ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kafiul.islam.50)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kafi015)](https://github.com/ryo-ma/github-profile-trophy)
 
