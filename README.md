@@ -1,8 +1,10 @@
-######<center> I'm G. M. Abdullah Al-Kafi</center>
+![Flutter Developer](https://www.linkedin.com/in/g-m-kafi-b8b1761ab/overlay/background-image/)
+
+###### I'm G. M. Abdullah Al-Kafi
 #### Flutter Developer
 
 
-Assalamualaikum. Myself G.M. Abdullah Al-Kafi. I am passionate about Competitive Programming and Flutter Development. For the last 1 years, I have been developing mobile application using dart and Flutter. I am also developing my problem solving skill. I'm always looking for new ways to learn and grow. I am also good at Android, Firebase, RestAPI, OOP, HTML, CSS and .Net Framework. I am well-versed in the database management systems MySQL. Programming language: C, C++, C#, dart.
+Experienced Flutter app developer with a proven track record of creating high-quality mobile applications. Proficient in UI/UX design, third-party integrations, and optimizing app performance. Strong problem-solving skills and a passion for delivering innovative and user-friendly solutions.
 
 Skills: Flutter / Dart / .Net / C# / C / C++
 
