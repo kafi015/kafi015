@@ -1,4 +1,4 @@
-### Hi there 👋, I'm G. M. Abdullah Al-Kafi
+######<center> I'm G. M. Abdullah Al-Kafi</center>
 #### Flutter Developer
 
 
