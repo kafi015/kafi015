@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm G. M. Abdullah Al-Kafi
 #### Flutter Developer
-![Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Assalamualaikum. Myself G.M. Abdullah Al-Kafi. I am passionate about Competitive Programming and Flutter Development. For the last 1 years, I have been developing mobile application using dart and Flutter. I am also developing my problem solving skill. I'm always looking for new ways to learn and grow. I am also good at Android, Firebase, RestAPI, OOP, HTML, CSS and .Net Framework. I am well-versed in the database management systems MySQL. Programming language: C, C++, C#, dart.
 
