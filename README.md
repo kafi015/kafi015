@@ -1,5 +1,5 @@
 # Hi there 👋, I'm G. M. Abdullah Al-Kafi
-#### Flutter Developer
+
 Experienced Flutter app developer with a proven track record of creating high-quality mobile applications. Proficient in UI/UX design, third-party integrations, and optimizing app performance. Strong problem-solving skills and a passion for delivering innovative and user-friendly solutions.
 
 Skills: Flutter / Dart / .Net / C# / C / C++
