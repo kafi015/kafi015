@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey! I'm G. M. Abdullah Al-Kafi</h1>
+<h1 align="center">Hey! This is G. M. Abdullah Al-Kafi</h1>
 <h3 align="center">Mobile Application Developer - Flutter</h3>
 
 
@@ -7,7 +7,7 @@
 
 - 📧  *kaficsebaiust02@gmail.com*
 - 📄 [Curriculum vitae - CV](https://drive.google.com/file/d/1l1qM484Zl8E06Iv2phnRNuT-Bqg_h7B6/view?usp=drive_link)
-- - 📄 [Resume](https://drive.google.com/file/d/1ilyxHu5-nCJX9NwxGzoc8BQXmDhUU6Kn/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1ilyxHu5-nCJX9NwxGzoc8BQXmDhUU6Kn/view?usp=sharing)
 
 
 
