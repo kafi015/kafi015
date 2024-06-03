@@ -1,7 +1,8 @@
 
 <img src="https://github.com/kafi015/kafi015/assets/85091859/deb49851-89bc-4c0f-a103-e6d7db33dcd7">
+<hr>
 <h1 align="center">Hey! This is G. M. Abdullah Al-Kafi</h1>
-<h3 align="center">Mobile Application Developer - Flutter</h3>
+<h3 align="center">Researcher || Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kafi015&label=Profile%20views&color=0e75b6&style=flat" alt="kafi015" /> </p>
