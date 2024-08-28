@@ -27,3 +27,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kafi015&show_icons=true&locale=en&layout=compact" alt="kafi015" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kafi015&" alt="kafi015" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafi015&show_icons=true&count_private=true&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kafi015)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafi015&layout=compact)
+
